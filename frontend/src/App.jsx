@@ -6,5 +6,5 @@ export default function App() {
         Post a Job
       </button>
     </div>
-  )
+  );
 }
